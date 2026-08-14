@@ -63,7 +63,6 @@ The project consists of six relational tables:
 
 The ER diagram represents the database structure and relationships between students, purchases, products, categories, reviews, and wishlists.
 
-![NovaCart ER Diagram](ER%20Diagram/NovaCart_ER_Diagram.png)
 
 ---
 
