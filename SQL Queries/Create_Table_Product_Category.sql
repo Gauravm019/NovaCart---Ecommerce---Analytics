@@ -1,0 +1,5 @@
+CREATE TABLE PRODUCT_CATEGORY (
+    category_id INT IDENTITY(1,1) PRIMARY KEY,
+    category_name VARCHAR(60) NOT NULL UNIQUE,
+    description VARCHAR(255)
+);
